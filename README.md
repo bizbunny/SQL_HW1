@@ -1,2 +1,2 @@
 # SQL_HW1
-Projects from my Databases Class Winter 2022
+HW from Week 1 of my Databases Class Winter 2022
